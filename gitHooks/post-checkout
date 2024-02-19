@@ -1,0 +1,5 @@
+#!/bin/bash
+#npm install
+
+echo "Este es el hook post-checkout";
+npm install .
